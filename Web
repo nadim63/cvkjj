@@ -1,91 +1,39 @@
-<!-- wp:separator -->
+<!-- wp:cover {"url":"https://dotcompatterns.files.wordpress.com/2021/02/matthew-henry-kq3mxxdgeom-unsplash-edit.jpg","dimRatio":30,"overlayColor":"foreground","minHeight":100,"minHeightUnit":"vh","align":"full","className":"has-custom-content-position is-position-top-center"} -->
+<div class="wp-block-cover alignfull has-custom-content-position is-position-top-center" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://dotcompatterns.files.wordpress.com/2021/02/matthew-henry-kq3mxxdgeom-unsplash-edit.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-<!-- /wp:separator -->
-
-<!-- wp:image {"align":"center","id":5,"sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded"} -->
-
-<figure class="wp-block-image aligncenter size-thumbnail is-style-rounded"><img src="https://asiandating7.files.wordpress.com/2022/11/cover.jpg?w=82" alt="" class="wp-image-5"/><figcaption class="wp-element-caption"><strong>Lisa lips</strong></figcaption></figure>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-<p>if you want to sex with me join my profile</p>
-
-<!-- /wp:paragraph -->
-
-<!-- wp:separator -->
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-<!-- /wp:separator -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"luminous-vivid-orange"} -->
-
-<div class="wp-block-button"><a class="wp-block-button__link has-luminous-vivid-orange-background-color has-background wp-element-button" href="https://vk.sv/HYl5kh" target="_blank" rel="noreferrer noopener">JOIN My Profile </a></div>
-
-<!-- /wp:button --></div>
-
-<!-- /wp:buttons -->
-
-<!-- wp:separator -->
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-
-<h3>If you want to sex with me, join my profile. How you can join my profile?</h3>
-
+<!-- wp:heading {"className":"margin-bottom-half","style":{"typography":{"fontSize":41,"lineHeight":"1.25"}}} -->
+<h2 class="margin-bottom-half" style="font-size:41px;line-height:1.25">My Links</h2>
 <!-- /wp:heading -->
 
-<!-- wp:list -->
-
-<ul><!-- wp:list-item -->
-
-<li>‣ First click join my profile button.</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>‣ Then continue and create a new profile.</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>‣ Then check your email inbox and confrom and verify your email .</li>
-
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-
-<li>‣ Then message me for playing.</li>
-
-<!-- /wp:list-item --></ul>
-
-<!-- /wp:list -->
-
-<!-- wp:social-links {"align":"center"} -->
-
-<ul class="wp-block-social-links aligncenter"><!-- wp:social-link {"url":"https://vk.sv/HYl5kh","service":"youtube","label":""} /-->
-
-<!-- wp:social-link {"url":"https://vk.sv/HYl5kh","service":"chain","label":""} /-->
-
-<!-- wp:social-link {"url":"https://vk.sv/HYl5kh","service":"chain","label":"Open"} /-->
-
-<!-- wp:social-link {"url":"https://vk.sv/HYl5kh","service":"google","label":""} /--></ul>
-
-<!-- /wp:social-links -->
-
-<!-- wp:paragraph -->
-
-<p></p>
-
+<!-- wp:paragraph {"className":"margin-top-half","style":{"typography":{"fontSize":20,"lineHeight":"1.6"}}} -->
+<p class="margin-top-half" style="font-size:20px;line-height:1.6">My latest and greatest tips, resources, and reads. So much goodness all in one place!</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"background","textColor":"foreground","width":100,"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-foreground-color has-background-background-color has-text-color has-background wp-element-button">Link text</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"background","textColor":"foreground","width":100,"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-foreground-color has-background-background-color has-text-color has-background wp-element-button">Link text</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"background","textColor":"foreground","width":100,"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-foreground-color has-background-background-color has-text-color has-background wp-element-button">Link text</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"#","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div></div>
+<!-- /wp:cover -->
